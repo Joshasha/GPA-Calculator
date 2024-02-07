@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\bin\Debug\net8.0\GPA_CALCULATOR_TASK.exe
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\bin\Debug\net8.0\GPA_CALCULATOR_TASK.deps.json
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\bin\Debug\net8.0\GPA_CALCULATOR_TASK.runtimeconfig.json
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\bin\Debug\net8.0\GPA_CALCULATOR_TASK.dll
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\bin\Debug\net8.0\GPA_CALCULATOR_TASK.pdb
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\GPA_CALCULATOR_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\GPA_CALCULATOR_TASK.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\GPA_CALCULATOR_TASK.AssemblyInfo.cs
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\GPA_CALCULATOR_TASK.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\GPA_CALCULATOR_TASK.dll
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\refint\GPA_CALCULATOR_TASK.dll
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\GPA_CALCULATOR_TASK.pdb
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\GPA_CALCULATOR_TASK.genruntimeconfig.cache
+C:\Users\user\Documents\Decagon Training\GPA_CALCULATOR_TASK\obj\Debug\net8.0\ref\GPA_CALCULATOR_TASK.dll
